@@ -3,3 +3,4 @@ pylint:
     - unpacking-non-sequence
 ignore-paths:
     - sklearn/externals
+sf
